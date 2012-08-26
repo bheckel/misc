@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# Author unknown
 use strict;
                                            $_='ev
                                        al("seek\040D
