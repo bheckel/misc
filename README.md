@@ -1,4 +1,4 @@
 misc
 ====
 
-tests, program fragments and broken toys
+tests, program fragments and broken things
